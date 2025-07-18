@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tayyba Hider</h1>
+<h1 align="center">Hi 👋, I'm Tayyba Haider</h1>
 <h3 align="center">A passionate Software Engineer, AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on an **E-Commerce Chatbot using AI & React**
